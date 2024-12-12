@@ -1,0 +1,9 @@
+name: opensci-playbook
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - jupyterlab
+  - jupytext

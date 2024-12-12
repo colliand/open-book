@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 12cb1ad4-4571-4b28-a1d7-a15ce8703997
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/colliand/open-book
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
