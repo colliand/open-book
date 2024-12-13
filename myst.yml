@@ -38,6 +38,7 @@ project:
         children:
         - file: content/documentation.md
         - file: content/gallery.md
+        - file: content/literature.md
       - title: Data
         children:
         - file: content/mission-data.md
