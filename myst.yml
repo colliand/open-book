@@ -26,20 +26,25 @@ project:
     - file: content/index.md
     - title: Atlas of Digital Villages
     - file: content/atlas.md
+      children: 
       - title: About
+        children:
         - file: content/mission-statement.md
         - file: content/demongraphics.md
         - file: content/people.md
         - file: content/funding.md
       - title: Blog
       - title: Library
+        children:
         - file: content/documentation.md
         - file: content/gallery.md
       - title: Data
+        children:
         - file: content/mission-data.md
         - file: content/usage.md
         - file: content/impage.md
     - title: Binder Emissions Data
+      children:
       - file: content/binder.md
         
 site:
