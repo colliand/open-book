@@ -33,7 +33,7 @@ project:
         - file: content/demongraphics.md
         - file: content/people.md
         - file: content/funding.md
-      - title: Blog
+      - file: content/blog.md
       - title: Library
         children:
         - file: content/documentation.md
@@ -42,7 +42,7 @@ project:
         children:
         - file: content/mission-data.md
         - file: content/usage.md
-        - file: content/impage.md
+        - file: content/impact.md
     - title: Binder Emissions Data
       children:
       - file: content/binder.md
