@@ -47,6 +47,9 @@ project:
     - title: Binder Emissions Data
       children:
       - file: content/binder.md
+    - title: Geospatial Data Explorations
+      children:
+      - file: content/cc-explore.md
         
 site:
   template: book-theme
