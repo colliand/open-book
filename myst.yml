@@ -48,8 +48,9 @@ project:
       children:
       - file: content/binder.md
     - title: Geospatial
+    - file: content/geo/geospatial.md
       children:
-      - file: content/cc-explore.md
+      - file: content/geo/cc-explore.md
         
 site:
   template: book-theme
