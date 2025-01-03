@@ -11,17 +11,17 @@ kernelspec:
   name: python3
 ---
 
-# CC Explore
+# Garmin GPX
 
 +++
 
-My friend CC shared an output file generated using his Garmin inReach Mini. These files contain GPS locations during a trip CC took. I want to
+My friend CC shared an output file generated using his Garmin inReach Mini. This files contain GPS locations during trips CC took. I want to
 1. Render the points on a map
 2. Change the base layer of the map
 
 ```{code-cell} ipython3
 # install some libraries
-!pip install gpxpy
+!pip install folium gpxpy
 ```
 
 ```{code-cell} ipython3
