@@ -30,7 +30,7 @@ project:
       - title: About
         children:
         - file: content/atlas/mission-statement.md
-        - file: content/atlas/demongraphics.md
+        - file: content/atlas/demographics.md
         - file: content/atlas/people.md
         - file: content/atlas/funding.md
       - file: content/atlas/blog.md
@@ -50,7 +50,7 @@ project:
     - title: Geospatial
     - file: content/geo/geospatial.md
       children:
-      - file: content/geo/cc-explore.md
+      - file: content/geo/cc-explore-gpx.md
         
 site:
   template: book-theme
