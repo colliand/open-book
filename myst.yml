@@ -48,7 +48,9 @@ project:
       children:
       - file: content/binder.md
     - title: Geospatial Data Explorations
+    - file: content/geo/geospatial.md
       children:
+      - title: Garmin GPX file
       - file: content/cc-explore.md
         
 site:
