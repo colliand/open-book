@@ -8,9 +8,9 @@ project:
   authors:
     - name: James Colliander
       affiliations: 
-        - [2i2c.org](https://2i2c.org)
-        - [UBC Math](https://www.math.ubc.ca)
-        - [Crowdmark](https://crowdmark.com)
+        - 2i2c.org
+        - UBC Math
+        - Crowdmark
       orcid: 0000-0002-8087-0887
       email: colliand@2i2c.org
   license: CC-BY-SA-4.0
